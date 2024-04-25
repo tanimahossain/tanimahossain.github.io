@@ -1,0 +1,6 @@
+Language: C/C++, JavaScript, TypeScript, C#, Java
+Frameworks: ExpressJS, NodeJS, NextJS, Android
+Database: MySQL, PostgreSQL, Sequelize, Knex
+Frontend: HTML, CSS, React, TailwindCSS
+Testing Tools: Playwright E2E test, Jest, Mocha, Chai
+Others: Git, Docker, Postman, Github, Stripe Payment Gateway, Sanity Headless CMS

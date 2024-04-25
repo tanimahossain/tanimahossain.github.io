@@ -706,7 +706,7 @@ p {
 .navbar-nav .nav-item a {
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
+  color: orange;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -734,7 +734,7 @@ p {
 .navbar-nav .nav-item a span {
   width: 0;
   height: 2px;
-  background-color: #fff;
+  background-color: orange;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -752,7 +752,7 @@ p {
   content: "";
   width: 0;
   height: 2px;
-  background-color: #fff;
+  background-color: orange;
   left: 110%;
 }
 .navbar-nav .nav-item a span::after {
@@ -760,7 +760,7 @@ p {
   content: "";
   width: 0;
   height: 2px;
-  background-color: #fff;
+  background-color: orange;
   left: 140%;
 }
 .navbar-nav .nav-item.active > a span,
@@ -840,7 +840,7 @@ p {
 .navbar-nav .nav-item .sub-menu li a.active,
 .navbar-nav .nav-item .sub-menu li a:hover {
   padding-left: 25px;
-  color: #3b52ad;
+  color: rgb(217, 112, 26);
 }
 .navbar-nav .sub-nav-toggler {
   display: none;
@@ -892,7 +892,7 @@ p {
 }
 .sticky .navbar-nav .nav-item.active > a,
 .sticky .navbar-nav .nav-item:hover > a {
-  color: #708bfa;
+  color: rgb(217, 112, 26);
 }
 
 /*===== HEADER HERO =====*/
@@ -973,7 +973,7 @@ p {
   -o-transform: skewX(20deg);
   transform: skewX(20deg);
   top: 0;
-  left: 0;
+  left: 15%;
 }
 
 .header_hero_content .header_sub_title {
@@ -1023,6 +1023,7 @@ p {
 
 .header_hero_image img {
   width: 100%;
+  border-radius: 40%;
 }
 
 /*===========================

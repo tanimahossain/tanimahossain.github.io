@@ -1,0 +1,18 @@
+Cefalo Bangladesh Ltd.
+Software Engineer
+02/2024 – Present
+ | 
+Dhaka, Bangladesh
+•Designed a Graph Algorithm to personalize learning paths based on user data and choices from over 150 topics.
+•Wrote 10+ E2E tests using Playwright to cover all the important cases of subscription features.
+•Enhanced subscription system with flexible payment gateway selection and trial period customization providing 25% more administrative control.
+•Conducted 50+ Code Reviews of peers and provided constructive feedback to maintain coding standards and identify potential issues.
+Associate Software Engineer
+02/2022 – 01/2024
+ | 
+Dhaka, Bangladesh
+•Built 10+ high-priority features focusing on monetization and payment functionalities, utilizing Stripe payment gateway i.e. implementing a multi-tier subscription feature.
+•Employed Sanity Data structure and CRUD operations for 20% more efficient content management.
+•Refactored Codebase to migrate more than 5 React Contexts to Redux for centralized state management.
+•Authored 30+ Unit Tests covering success and failure scenarios for a feature.
+•Resolved over 100 Production Bugs minimizing business impacts effectively.
